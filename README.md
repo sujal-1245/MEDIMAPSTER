@@ -101,12 +101,12 @@ The application utilizes a machine learning model trained on a dataset of medici
 ![image](https://github.com/user-attachments/assets/1458ab00-8eef-4440-b979-b64e74a08fcc)
 
 
-*Caption: Search for branded medicines to find generic alternatives.*
+*Search for branded medicines to find generic alternatives.*
 
 ![image](https://github.com/user-attachments/assets/06e53105-4132-413f-90f5-fbd676aff2af)
 
 
-*Caption: Locate nearby generic medicine stores with ease.*
+*Locate nearby generic medicine stores with ease.*
 
 ## 🤝 Contributing
 
