@@ -2,7 +2,8 @@
 
 **MEDIMAPSTER** is an innovative web application designed to promote affordable healthcare by recommending generic alternatives to branded medicines and assisting users in locating nearby generic medicine stores. Built with a React frontend and a Flask backend, the application leverages machine learning to provide intelligent medicine recommendations.
 
-![MEDIMAPSTER Banner](link_to_your_project_banner_image)
+![image](https://github.com/user-attachments/assets/35aaf2f4-774b-442f-8895-cfddf8fe30ce)
+
 
 ## 🌟 Features
 
@@ -97,11 +98,13 @@ The application utilizes a machine learning model trained on a dataset of medici
 
 ## 📷 Screenshots
 
-![Search Interface](link_to_search_interface_image)
+![image](https://github.com/user-attachments/assets/1458ab00-8eef-4440-b979-b64e74a08fcc)
+
 
 *Caption: Search for branded medicines to find generic alternatives.*
 
-![Store Locator](link_to_store_locator_image)
+![image](https://github.com/user-attachments/assets/06e53105-4132-413f-90f5-fbd676aff2af)
+
 
 *Caption: Locate nearby generic medicine stores with ease.*
 
